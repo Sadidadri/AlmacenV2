@@ -12,7 +12,7 @@ import excepciones.StockNegativoException;
  */
 public class Gestisimal{
 	//Creacion de la lista de articulos que alberga el almacen
-	ArrayList<Articulo> lista = new ArrayList<Articulo>();
+	private ArrayList<Articulo> lista = new ArrayList<Articulo>();
 	
 	
 	/**
